@@ -20,7 +20,7 @@ function App() {
           <nav class="nav nav-masthead justify-content-center">
             <a class="nav-link btn btn-link" onClick={(event) => changeNavigation(1)}>Home</a>
             <a class="nav-link btn btn-link" onClick={(event) => changeNavigation(2)}>Stacks</a>
-            <a class="nav-link btn btn-link" onClick={(event) => changeNavigation(3)}>Stacks</a>
+            <a class="nav-link btn btn-link" onClick={(event) => changeNavigation(3)}>Medias</a>
           </nav>
         </div>
       </header>
