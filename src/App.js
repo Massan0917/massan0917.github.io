@@ -6,7 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
 function App() {
-  const [navNumber, setNavigation] = useState(3);
+  const [navNumber, setNavigation] = useState(1);
 
   const changeNavigation = (navNumber) => {
     setNavigation(navNumber);
